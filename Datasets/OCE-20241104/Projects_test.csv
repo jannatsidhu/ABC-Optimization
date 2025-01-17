@@ -1,0 +1,10 @@
+ProjectName,ProgramName,ProjectManager,RegionName,ReserveName,SpeciesCommonName, EstimatedCost ,ProjectPriority
+0,MIMAL,C,BCR24,Tunapuna,Brown-chested Martin,"$34,000,000.00 ",Medium
+1,Central,E,BCR35,Blackfeet,Double-striped Thick-knee,"$33,000,000.00 ",High
+2,Central,D,BCR36,Toccoa,Brown Creeper,"$18,000,000.00 ",Medium
+3,Southwest,F,BCR17,Schatulga,Carolina Chickadee,"$10,000,000.00 ",Medium
+5,Central,G,BCR36,Bois Forte Band,Ivory-billed Woodcreeper,"$35,000,000.00 ",High
+6,Central,B,BCR19,Kalispell,White Hawk,"$15,000,000.00 ",Low
+7,Central,G,BCR21,Caura,Chiriqui Quail-Dove,"$38,000,000.00 ",High
+18,Southwest,I,BCR32,Brotherton,Yucatan Gnatcatcher,"$35,000,000.00 ",Low
+19,Southwest,A,BCR33,Cataula,Hoary Redpoll,"$33,000,000.00 ",Low

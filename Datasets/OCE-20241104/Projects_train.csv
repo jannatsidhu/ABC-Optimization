@@ -1,0 +1,92 @@
+ProjectName,ProgramName,ProjectManager,RegionName,ReserveName,SpeciesCommonName, EstimatedCost ,ProjectPriority
+4,MIMAL,F,BCR23,Karuk,Red-billed Pigeon,"$37,000,000.00 ",Medium
+8,Central,C,BCR35,Nankipooh,Tawny-crested Tanager,"$6,000,000.00 ",Medium
+9,MIMAL,B,BCR23,Karuk,White-bellied Chachalaca,"$15,000,000.00 ",High
+10,Crossroads,I,BCR29,Weracoba,Black-cheeked Ant-Tanager,"$23,000,000.00 ",High
+11,MIMAL,C,BCR26,Acoma Pueblo,King Rail,"$47,000,000.00 ",High
+12,Southwest,E,BCR15,Birch Creek,Surf Scoter,"$47,000,000.00 ",High
+13,Southwest,A,BCR33,Cataula,Common Raven,"$10,000,000.00 ",Medium
+14,Southwest,D,BCR32,Brotherton,Mangrove Vireo,"$44,000,000.00 ",Medium
+15,Crossroads,I,BCR27,Arouca,Belted Flycatcher,"$37,000,000.00 ",Low
+16,MIMAL,G,BCR22,Arima,Band-rumped Swift,"$8,000,000.00 ",Medium
+17,Central,F,BCR19,Kalispell,Belted Kingfisher,"$33,000,000.00 ",Medium
+20,MIMAL,F,BCR26,Acoma Pueblo,Happy Wren,"$39,000,000.00 ",Medium
+21,Central,C,BCR21,Caura,White-throated Thrush,"$44,000,000.00 ",Medium
+22,MIMAL,L,BCR26,Acoma Pueblo,Red-necked Phalarope,"$48,000,000.00 ",Low
+23,MIMAL,H,BCR26,Acoma Pueblo,Nazca Booby,"$6,000,000.00 ",Medium
+24,Central,I,BCR36,Beaver Village,Yellow-billed Cuckoo,"$19,000,000.00 ",Low
+25,MIMAL,I,BCR26,Acoma Pueblo,Saffron Finch,"$43,000,000.00 ",Medium
+26,MIMAL,H,BCR23,Karuk,Sooty Tern,"$22,000,000.00 ",Medium
+27,MIMAL,A,BCR25,Mayaro,Arctic Tern,"$32,000,000.00 ",Low
+28,MIMAL,I,BCR23,Anvik Village,Black-backed Oriole,"$31,000,000.00 ",Medium
+29,NewEngland,J,BCR30,Kasigluk,Eastern Bluebird,"$4,000,000.00 ",Low
+30,Crossroads,I,BCR27,Arouca,Yellow-headed Caracara,"$15,000,000.00 ",Medium
+31,Central,A,BCR19,Kalispell,Spot-crowned Barbet,"$15,000,000.00 ",Low
+32,ArcticEast,F,BCR4,Aripo  ,Spotted Wren,"$17,000,000.00 ",
+33,Southwest,H,BCR15,Birch Creek,Purple Honeycreeper,"$46,000,000.00 ",High
+34,Central,J,BCR21,Caura,Herring Gull,"$46,000,000.00 ",Medium
+35,Crossroads,G,BCR29,Weracoba,Ovenbird,"$47,000,000.00 ",Medium
+36,Southwest,H,BCR33,Tamana,Red-footed Booby,"$34,000,000.00 ",High
+37,MIMAL,D,BCR24,Tunapuna,Black Scoter,"$39,000,000.00 ",High
+38,Central,D,BCR21,Caura,Red-shouldered Hawk,"$21,000,000.00 ",Medium
+39,Southwest,L,BCR16,Burns Paiute,Pine Grosbeak,"$11,000,000.00 ",Low
+40,NewEngland,L,BCR30,Kasigluk,Spectacled Owl,"$26,000,000.00 ",High
+41,Southwest,K,BCR15,Birch Creek,Black-crowned Night-Heron,"$34,000,000.00 ",High
+42,Central,J,BCR18,Carapichaima,Bulwer's Petrel,"$35,000,000.00 ",Medium
+43,ArcticEast,J,BCR4,Aripo  ,Northern Hawk Owl,"$37,000,000.00 ",
+44,Crossroads,E,BCR29,Upatoi,Horned Guan,"$12,000,000.00 ",High
+45,Southwest,H,BCR33,Tamana,Purple Finch,"$21,000,000.00 ",High
+46,Southwest,I,BCR15,Birch Creek,Zenaida Dove,"$45,000,000.00 ",High
+47,Central,J,BCR19,Kalispell,Blue Jay,"$15,000,000.00 ",High
+48,Central,H,BCR36,Beaver Village,White-tailed Ptarmigan,"$23,000,000.00 ",High
+49,Central,E,BCR21,Chaguanas,Golden-hooded Tanager,"$39,000,000.00 ",Medium
+50,Central,K,BCR36,Bois Forte Band,Russet-winged Schiffornis,"$7,000,000.00 ",Medium
+51,NewEngland,I,BCR30,Kasigluk,Florida Scrub-Jay,"$11,000,000.00 ",Medium
+52,Southwest,C,BCR16,Burns Paiute,Pigeon Guillemot,"$21,000,000.00 ",Medium
+53,MIMAL,J,BCR23,Anvik Village,Summer Tanager,"$16,000,000.00 ",Low
+54,Central,A,BCR18,Carapichaima,Yellow-hooded Blackbird,"$29,000,000.00 ",Medium
+55,Southwest,H,BCR17,Schatulga,Red Crossbill,"$2,000,000.00 ",Low
+56,Central,D,BCR37,Oropouche  ,Common Grackle,"$35,000,000.00 ",
+57,Southwest,E,BCR33,Tamana,Mouse-colored Tyrannulet,"$25,000,000.00 ",Medium
+58,Central,L,BCR21,Caura,Checker-throated Stipplethroat,"$12,000,000.00 ",Medium
+59,MIMAL,G,BCR23,Anvik Village,White-headed Woodpecker,"$15,000,000.00 ",Medium
+60,GreatLakes,B,BCR8,Kaw,Riverside Wren,"$16,000,000.00 ",Medium
+61,Central,H,BCR35,Blackfeet,Violaceous Quail-Dove,"$4,000,000.00 ",High
+62,NewEngland,C,BCR14,Caroni,Savanna Hawk,"$15,000,000.00 ",Low
+63,MIMAL,L,BCR25,Mayaro,Rufous-winged Tanager,"$26,000,000.00 ",Low
+64,Southwest,K,BCR17,Schatulga,Long-billed Starthroat,"$14,000,000.00 ",Low
+65,Central,C,BCR36,Bois Forte Band,Dwarf Vireo,"$50,000,000.00 ",Medium
+66,Southwest,D,BCR33,Cataula,Least Sandpiper,"$33,000,000.00 ",High
+67,Southwest,F,BCR33,Tamana,Common Gallinule,"$12,000,000.00 ",High
+68,Central,G,BCR36,Beaver Village,Black-capped Chickadee,"$1,000,000.00 ",High
+69,Southwest,G,BCR16,Burns Paiute,Black-bellied Wren,"$33,000,000.00 ",Medium
+70,Central,K,BCR35,Dahlonega,Wedge-rumped Storm-Petrel,"$43,000,000.00 ",Medium
+71,NewEngland,G,BCR30,Kasigluk,Zenaida Dove,"$39,000,000.00 ",Low
+72,Central,F,BCR35,Dahlonega,Little Tinamou,"$19,000,000.00 ",Medium
+73,Southwest,H,BCR17,Schatulga,Worm-eating Warbler,"$3,000,000.00 ",Low
+74,MIMAL,I,BCR23,Karuk,Peregrine Falcon,"$29,000,000.00 ",High
+75,NewEngland,H,BCR30,Kasigluk,Orange-collared Manakin,"$48,000,000.00 ",Medium
+76,NewEngland,K,BCR13,Paria,Tropical Kingbird,"$2,000,000.00 ",Medium
+77,MIMAL,K,BCR25,Mayaro,Ferruginous Pygmy-Owl,"$13,000,000.00 ",Medium
+78,Southwest,J,BCR33,Tamana,Green-breasted Mountain-gem,"$30,000,000.00 ",Medium
+79,Crossroads,G,BCR27,Arouca,Blue Seedeater,"$1,000,000.00 ",Medium
+80,Central,K,BCR19,Kalispell,Eastern Wood-Pewee,"$11,000,000.00 ",Medium
+81,Southwest,J,BCR33,Tamana,Fulvous Whistling-Duck,"$20,000,000.00 ",Low
+82,Southwest,A,BCR16,Burns Paiute,Sepia-capped Flycatcher,"$5,000,000.00 ",Medium
+83,Southwest,A,BCR33,Cataula,Williamson's Sapsucker,"$5,000,000.00 ",Low
+84,Central,I,BCR35,Dahlonega,Ancient Murrelet,"$24,000,000.00 ",Medium
+85,NewEngland,H,BCR14,Caroni,Northern Pygmy-Owl,"$4,000,000.00 ",Medium
+86,Central,I,BCR35,Nankipooh,Cinnamon Teal,"$5,000,000.00 ",Medium
+87,Crossroads,C,BCR29,Upatoi,Amethyst-throated Mountain-gem,"$19,000,000.00 ",Low
+88,GreatLakes,C,BCR8,Kaw,Red-fronted Parrotlet,"$49,000,000.00 ",Low
+89,Southwest,B,BCR32,Brotherton,Mexican Sheartail,"$8,000,000.00 ",Medium
+90,Central,A,BCR20,Couva,Dickcissel,"$7,000,000.00 ",Medium
+91,Southwest,H,BCR32,Brotherton,Blue-and-gold Tanager,"$40,000,000.00 ",High
+92,Central,G,BCR21,Caura,Northern Parula,"$25,000,000.00 ",Low
+93,GreatLakes,J,BCR8,Kaw,Azure-rumped Tanager,"$22,000,000.00 ",Medium
+94,Crossroads,I,BCR27,Arouca,Great Kiskadee,"$27,000,000.00 ",Medium
+95,Southwest,A,BCR34,Mucurapo,Band-rumped Storm-Petrel,"$36,000,000.00 ",Medium
+96,Central,A,BCR35,Nankipooh,Spot-crowned Antvireo,"$9,000,000.00 ",Low
+97,MIMAL,F,BCR22,Arima,Red-crowned Parrot,"$46,000,000.00 ",High
+98,Southwest,K,BCR34,Mucurapo,Brown Creeper,"$26,000,000.00 ",Medium
+99,Crossroads,H,BCR29,Weracoba,Northern Jacana,"$12,000,000.00 ",Low

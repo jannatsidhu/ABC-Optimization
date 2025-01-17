@@ -1,0 +1,41 @@
+ReserveName,RegionName,TotalReserveArea,TotalReserveUsed,TotalReserveUsedPercentage,PackingDensity,Habitat,Risks,TreeName,TotalNumberofTrees
+Weracoba,BCR29,1000,950,0.95,1.05,Oceans:  Pelagic|Forests:  Tropical Dry,Raccoons,Aspen|Jack Fruit |Catalpa|Oak,77306|114712|122193|87281
+Upatoi,BCR29,8000,7920,0.99,0.63,Wetlands:  Boreal|Oceans:  Arctic Polynyas|Wetlands:  Lakes and Rivers,Eagles|Rats,Larch|Golden Leather Fern|American Sycamore|Mountain maple,511434|1247400|623700|374220
+Toccoa,BCR36,10000,5100,0.51,1.01,Wetlands:  Tundra,Raccoons|Mongoose|Cats,Red Fir|Basswood|Black Maple|Reindeer Moss,502222|257550|270427|1287750
+Schatulga,BCR17,14000,9800,0.7,1.13,Open Country:  Developed/Disturbed,Foxes|Ferrets|Snakes,Banyan |Live Oak,2159429|2048689
+Ochillie,BCR19,12000,10680,0.89,0.6,Grasslands:  Temperate|Forests:  Mesoamerican Pine-Oak,Opossums|Raccoons|Stoats,Buckeye|Cottonwood|Oak |Pine |Weeping Willow,627984|166608|410112|615168|615168
+Nankipooh,BCR35,5000,2600,0.52,0.6,Forests:  Tropical Lowland Evergreen|Coasts:  Saltmarsh|Oceans:  Arctic Polynyas,Coyotes,Smartweed|Jack Fruit |Red Pine,65000|239200|254800
+Cataula,BCR33,2000,1320,0.66,1.13,Tundra:  Alpine,Cat|Stoats,Magnolia,74580
+Dahlonega,BCR35,2000,1140,0.57,1.09,Forests:  Tropical Lowland Evergreen|Aridlands:  Desert Scrub|Wetlands:  Forested,Snakes,Jack Fruit |Saguaro|Eucalypts|Mahogany,142899|31065|90088|15532
+Caroni,BCR14,4000,2640,0.66,0.65,Tundra:   Paramo|Open Country:  Habitat Mosaic|Grasslands:  Chihuahuan,Opossums,Mulberry ,463320
+Oropouche ,BCR37,16000,12960,0.81,1.17,Forests:  Tropical Lowland Evergreen|Grasslands:  Chihuahuan,Coyotes|Cat,Maple|Jack Fruit ,2577744|3487535
+Tamana,BCR33,3000,1980,0.66,0.85,Forests:  Tropical Dry|Tundra:  Arctic|Forests:  Temperate Generalist,Stoats|Cat|Eagles,Maple|Aspen|Oak,190740|173910|196350
+Aripo ,BCR4,6000,5400,0.9,0.98,Wetlands:  Boreal|Forests:  Temperate Western|Wetlands:  Lakes and Rivers,Foxes|Coyotes|Opossums,Larch|Neem |Fig ,723240|829080|723240
+Arima,BCR22,5000,3000,0.6,0.67,Islands:  Oceanic|Open Country:  Developed/Disturbed|Forests:  Temperate Western,Eagles,Apple |Neem |Acacia|Spruce ,105525|236175|70350|150750
+Paria,BCR13,6000,4860,0.81,0.84,Oceans:  Arctic Polynyas,Rats|Coyotes,Hemlock,1959551
+Arouca,BCR27,7000,4270,0.61,1.09,Grasslands:  Chihuahuan,Weasels|Coyotes,Peepal |Water Tupelo|Buckeye|Maple|Alder,372344|260640|456121|316492|363035
+Caura,BCR21,9000,6390,0.71,0.59,Grasslands:  Tropical|Wetlands:  Tundra,Raccoons|Mink|Foxes,Eucalypts|Palm |Maple ,364443|100536|565515
+Tunapuna,BCR24,8000,7760,0.97,0.88,Aridlands:  Desert Riparian|Coasts:  Rocky Intertidal,Ferrets|Cats|Foxes,Cypress |Saguaro,1399904|341440
+Tacarigua,BCR13,2000,1900,0.95,0.84,Open Country:  Habitat Mosaic|Wetlands:  Seasonally Wet Grasslands,Mongoose|Snakes|Cats,Java Plumb ,143640
+Couva,BCR20,5000,2600,0.52,1.08,Wetlands:  Freshwater Marsh|Tundra:  Alpine|Coasts:  Beach and Estuary,Rats|Coyotes,Black Maple|Coyote Brush|arrowhead|Mahogany|Blue Spruce,117936|84240|1684800|28080|258336
+Mucurapo,BCR34,10000,9400,0.94,0.65,Grasslands:  Temperate,Stoats|Weasels|Ferrets,Weeping Willow,2932800
+Chaguanas,BCR21,13000,7150,0.55,0.73,Forests:  Tropical Montane Evergreen|Oceans:  Arctic Polynyas|Tundra:  Arctic,Eagles,Hemlock|Blue Spruce|Smartweed,835120|800323|217479
+Carapichaima,BCR18,15000,13500,0.9,1.17,Coasts:  Mangroves|Coasts:  Marine Waters|Forests:  Tropical Generalist,Ferrets,California Palm,1895399
+Guaico,BCR6,8000,8000,1,0.89,Grasslands:  Tropical|Wetlands:  Boreal,Opossums|Mongoose|Weasels,Peepal |Palm ,1424000|284800
+Mayaro,BCR25,8000,4480,0.56,0.99,Islands:  Terrestrial Habitats|Tundra:   Paramo|Tundra:  Alpine,Snakes,Fir|Magnolia|Spruce ,206975|73920|443519
+Guayaguayare,BCR7,1000,790,0.79,0.74,Tundra:   Paramo|Open Country:  Habitat Mosaic|Islands:  Oceanic,Mink,Ash|California Palm|Stipa|Palm |Aspen,17538|14030|233840|9353|36245
+Acoma Pueblo,BCR26,10000,8700,0.87,1.18,Aridlands:  Sagebrush|Coasts:  Mangroves,Coyotes|Stoats,Mangrove|Avocado ,2053200|2463840
+Anvik Village,BCR23,5000,4600,0.92,0.54,Forests:  Tropical Lowland Evergreen|Aridlands:  Tropical Arid Scrub,Coyotes|Stoats|Opossums,Jack Fruit |Eucalypts|Stipa|Shade ,285660|180090|1242000|155250
+Bad River,BCR5,11000,7700,0.7,0.55,Coasts:  Saltmarsh|Grasslands:  Temperate|Forests:  Tropical Lowland Evergreen,Weasels,Red Pine|Eucalypts|Weeping Willow,691716|409383|677600
+Beaver Village,BCR36,5000,3550,0.71,0.93,Islands:  Oceanic|Oceans:  Pelagic|Forests:  Boreal,Raccoons|Ferrets,Palm |Jack Fruit ,132060|759345
+Big Sandy Rancheria,BCR13,14000,11620,0.83,0.73,Oceans:  Pelagic,Stoats|Rats|Opossums,Jack Fruit ,3901996
+Birch Creek,BCR15,12000,7680,0.64,0.6,Oceans:  Arctic Polynyas|Forests:  Boreal,Eagles|Mongoose,Smartweed|Hemlock,288000|1105920
+Bishop Paiute,BCR28,16000,9600,0.6,0.85,Oceans:  Arctic Polynyas|Islands:  Oceanic,Cat|Eagles,Acacia|Hemlock|Stipa,380800|1305600|5440000
+Blackfeet,BCR35,3000,2580,0.86,0.88,Tundra:  Arctic|Grasslands:  Pampas and Campos|Grasslands:  Tropical,Weasels|Cat|Mongoose,Avocado ,1089792
+Bois Forte Band,BCR36,3000,2610,0.87,1.12,Aridlands:  Sagebrush|Aridlands:  Desert Scrub,Ferrets|Cat|Cats,Cedar|Aloysia,409248|803880
+Brotherton,BCR32,7000,3710,0.53,1.08,Coasts:  Tundra|Grasslands:  Tropical,Opossums,Eucalypts|Maple |Noble Fir|Fir|Hemlock,232394|360612|240408|112190|384652
+Burns Paiute,BCR16,15000,9300,0.62,0.64,Forests:  Temperate Eastern|Oceans:  Pelagic|Aridlands:  Chaparral,Eagles|Coyotes|Opossums,Indian Rose Wood ,2976000
+Kalispell,BCR19,18000,18000,1,0.98,Forests:  Temperate Eastern|Forests:  Tropical Montane Evergreen|Coasts:  Cliffs and Islands,Cats,Cedar |Ash|Indian Rose Wood ,1822800|882000|2940000
+Karuk,BCR23,15000,9450,0.63,0.9,Islands:  Terrestrial Habitats|Forests:  Temperate Eastern|Grasslands:  Temperate,Snakes|Opossums|Foxes,Spruce ,2551500
+Kasigluk,BCR30,7000,6440,0.92,0.73,Aridlands:  Sagebrush,Mink|Mongoose|Cat,Aloysia|Cedar,1292830|658168
+Kaw,BCR8,10000,8400,0.84,0.86,Forests:  Temperate Western|Forests:  Tropical Lowland Evergreen|Tundra:  Arctic,Snakes,Neem |Apple |Reindeer Moss|Fig ,848820|379260|1806000|740460
